@@ -16,7 +16,7 @@ const nextConfig = {
       { protocol: 'https', hostname: 'images.unsplash.com' },
     ],
   },
-  assetPrefix: "./",
+  // assetPrefix: "./",
 }
 
 const withMDX = nextMDX({
